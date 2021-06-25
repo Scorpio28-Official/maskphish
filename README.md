@@ -21,13 +21,13 @@ SÓLO CON FINES EDUCATIVOS. El uso de MaskPhish para atacar objetivos sin consen
 
 * pkg install git -y
 
-* git clone https://github.com/Scorpio28-Official/maskphish
+* git clone https://github.com/Scorpio28-Oficial/maskphish
 
 * cd maskphish
 
 * bash maskphish.sh
 ```
-(Probado en Kali Linux, Termux &Ubuntu)
+(Probado en Kali Linux, Termux & Ubuntu)
 ## Artículo detallado:
 https://www.kalilinux.in/2020/07/how-to-hide-phishing-link.html
 
