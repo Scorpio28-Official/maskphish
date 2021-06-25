@@ -1,4 +1,3 @@
-# clear
 # Bash Script para ocultar URL de phishing creado por KP
 
 url_checker() {
