@@ -4,9 +4,9 @@ url_checker() {
     if [ ! "${1//:*}" = http ]; then
         if [ ! "${1//:*}" = https ]; then
             echo -e "\e[1;31m
-┌═══════════════════════════════════════════════┐
-█    \e[1;32m¡¡¡\e[1;37m DATOS ERRONEOS VUELVA A EMPEZAR \e[1;32m¡¡¡    \e[1;31m█
-└═══════════════════════════════════════════════┘\e[0m"
+┌═════════════════════════════════════════┐
+█ \e[1;32m¡¡¡\e[1;37m DATOS ERRONEOS VUELVA A EMPEZAR \e[1;32m¡¡¡\e[1;31m █
+└═════════════════════════════════════════┘\e[0m"
             bash maskphish.sh 1
         fi
     fi
@@ -38,7 +38,7 @@ echo -e "
 echo ""
 short=$(curl -s https://is.gd/create.php\?format\=simple\&url\=${phish})
 shorter=${short#https://}
-echo -e "\n\e[1;30m############\e[1;32m MASKING DOMINIO\e[1;30m #############\e[0m"
+echo -e "\n\e[1;30m#############\e[1;32m MASKING DOMINIO\e[1;30m #############\e[0m"
 echo -e -n "
 \e[1;30m┌══════════════════════════════════════════════┐
 █\e[1;32m DOMINIO PARA ENMASCARAR LA URL DE PHYSHING\e[1;30m   █
