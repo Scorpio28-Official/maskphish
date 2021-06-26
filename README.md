@@ -3,9 +3,10 @@
 </p>
 
 [![version-2.0](https://img.shields.io/badge/MaskPhish-2.0-green)]
+
 ### Autor: jaykali
 
-### Traducido y Personalizado Por: Scorpio28
+### Traducido, Editado y Personalizado Por: Scorpio28
 
 # MaskPhish
 Es un simple Script Bash para ocultar la URL de phishing bajo una URL de aspecto normal (google.com o facebook.com).
