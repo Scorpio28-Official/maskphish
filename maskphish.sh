@@ -72,4 +72,4 @@ echo -e "\e[1;30m┌════════════════════
 █\e[1;32m AQUI ESTA LA URL DE MASKPHISH\e[1;30m █
 └═══════════════════════════════┘
 ┃
-└═>>>\e[37m ${final} \e[0m\n "
+└═>>>\e[37m ${final} \e[0m\n "hj
