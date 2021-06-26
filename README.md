@@ -2,7 +2,7 @@
 	<img src="https://i.imgur.com/plp3lJu.jpg" width="600px" hight="100px">
 </p>
 
-[![version-2.0](https://img.shields.io/badge/MaskPhish-2.0-green)](https://github.com/jaykali/maskphish/releases/tag/2.0]
+[![version-2.0](https://img.shields.io/badge/MaskPhish-2.0-green)]
 ### Autor: jaykali
 
 ### Traducido y Personalizado Por: Scorpio28
